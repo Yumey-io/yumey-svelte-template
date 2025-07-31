@@ -174,7 +174,7 @@ bun run lint         # Lint code with ESLint
 
 - Modify `src/app.css` for global styles
 - Use DaisyUI classes for components
-- Customize theme in `tailwind.config.js`
+- Customize theme in `src/app.css`
 
 ## 🚀 Deployment
 
