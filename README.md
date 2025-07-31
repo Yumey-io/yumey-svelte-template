@@ -4,6 +4,7 @@
   <img src="static/favicon.svg" alt="Yumey" width="64" height="64" />
   <h1>Secure OAuth 2.0 Authentication Template</h1>
   <p>A modern, modular authentication system built with SvelteKit 5.0 and OAuth 2.0</p>
+  <p>You can find a hosted version of this repository on https://yumey-svelte-template.vercel.app/</p>
 </div>
 
 ## ✨ Features
