@@ -28,7 +28,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Yumey-io/yumey-svelte-template.git
    cd yumey-svelte-template
    ```
 
